@@ -277,3 +277,8 @@ https://fbref.com/en/squads/8602292d/Aston-Villa-Stats
 
 fabianleonardo.cabrera174@comunidadunir.net 
 
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(8)
+    }
+}
